@@ -1,6 +1,6 @@
-# React-Redux-Flask #
+# Deep-API #
 
-Boilerplate application for a Flask JWT Backend and a React/Redux Front-End with Material UI.
+Boilerplate application for a Flask + Tensorflow Backend and a React/Redux Front-End with Material UI.
 
 * Python 2.7+ or 3.x
 * Pytest
@@ -13,8 +13,7 @@ Boilerplate application for a Flask JWT Backend and a React/Redux Front-End with
 * Babel 6
 * SCSS processing
 * Webpack
-
-![screenshot](http://i.imgur.com/ZIS4qkw.png)
+* Tensorflow 0.10 +
 
 ### Create DB
 ```sh
